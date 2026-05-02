@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> نار حبكِ في وريدي
+> وأنتِ الروح في جسدي
+> كل ليل في عيوني
+> يسأل النجم لتهتدي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
