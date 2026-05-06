@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/fora2-byefra2/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Commercial Licensing for Fora2 Byefra2](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Request Licensing for Fora2 Byefra2](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
